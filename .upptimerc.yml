@@ -17,6 +17,8 @@ sites:
     url: https://kilianziegler.ch
   - name: Katrin Luchsinger
     url: https://www.katrinluchsinger.ch
+  - name: Alex CV
+    url: https://alexjenter.github.io/cv/
 assignees:
   - AlexJenter
 status-website:

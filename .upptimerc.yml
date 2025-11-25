@@ -1,24 +1,36 @@
 owner: AlexJenter
 repo: upptime
 sites:
-  - name: Hope Fight Love
-    url: https://hopefightlove.ch
-  - name: Lisa Christ
-    url: https://www.lisachrist.ch
-  - name: Zurich Aesthetics Lab
-    url: https://zurichaestheticslab.ch
-  - name: Kiff
-    url: https://kiff.ch
-  - name: Collegium
-    url: https://collegium.ethz.ch
+  - name: Benjam von Wyl
+    url: https://www.benjaminvonwyl.ch/
   - name: Chez Wang
     url: https://chez.wang
-  - name: Kilian Ziegler
-    url: https://kilianziegler.ch
+  - name: Collegium
+    url: https://collegium.ethz.ch
+  - name: Das Narr
+    url: https://dasnarr.ch/
+  - name: Forum Schlossplatz
+    url: https://www.forumschlossplatz.ch/
+  - name: Giubbini Architekten
+    url: https://giubbini.ch/
+  - name: Hope Fight Love
+    url: https://hopefightlove.ch
   - name: Katrin Luchsinger
     url: https://www.katrinluchsinger.ch
-  - name: Alex CV
-    url: https://alexjenter.github.io/cv/
+  - name: Kiff
+    url: https://kiff.ch
+  - name: Kilian Ziegler
+    url: https://kilianziegler.ch
+  - name: KUF Architekten
+    url: https://kufarchitekten.ch/
+  - name: Lisa Christ
+    url: https://www.lisachrist.ch
+  - name: Susanne Boner
+    url: https://www.susanneboner.ch/
+  - name: Zentrum Literarische Gegenwart
+    url: https://www.zentrumfuerliterarischegegenwart.ch/en
+  - name: Zurich Aesthetics Lab
+    url: https://zurichaestheticslab.ch
 assignees:
   - AlexJenter
 status-website:

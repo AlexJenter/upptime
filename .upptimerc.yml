@@ -3,6 +3,12 @@ repo: upptime
 sites:
   - name: Benjam von Wyl
     url: https://www.benjaminvonwyl.ch/
+  - name: Brutalist Websites
+    url: https://brutalistwebsites.com/
+  - name: Brutalist Websites Shop
+    url: https://shop.brutalistwebsites.com/
+  - name: CAS in theory and history of photography
+    url: https://www.cas-photography.ch/en
   - name: Chez Wang
     url: https://chez.wang
   - name: Collegium
@@ -19,6 +25,8 @@ sites:
     url: https://www.katrinluchsinger.ch
   - name: Kiff
     url: https://kiff.ch
+  - name: Kiff – We make it
+    url: https://kiff2026.ch/
   - name: Kilian Ziegler
     url: https://kilianziegler.ch
   - name: KUF Architekten

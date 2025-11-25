@@ -2,9 +2,21 @@ owner: AlexJenter
 repo: upptime
 sites:
   - name: Hope Fight Love
-    url: https://hopefightlove.ch/
+    url: https://hopefightlove.ch
   - name: Lisa Christ
-    url: https://www.lisachrist.ch/
+    url: https://www.lisachrist.ch
+  - name: Zurich Aesthetics Lab
+    url: https://zurichaestheticslab.ch
+  - name: Kiff
+    url: https://kiff.ch
+  - name: Collegium
+    url: https://collegium.ethz.ch
+  - name: Chez Wang
+    url: https://chez.wang
+  - name: Kilian Ziegler
+    url: https://kilianziegler.ch
+  - name: Katrin Luchsinger
+    url: https://www.katrinluchsinger.ch
 assignees:
   - AlexJenter
 status-website:

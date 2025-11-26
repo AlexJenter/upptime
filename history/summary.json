@@ -112,19 +112,19 @@
     "url": "https://collegium.ethz.ch",
     "icon": "https://icons.duckduckgo.com/ip3/collegium.ethz.ch.ico",
     "slug": "collegium",
-    "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
-    "time": 1260,
-    "timeDay": 1260,
-    "timeWeek": 1260,
-    "timeMonth": 1260,
-    "timeYear": 1260,
+    "status": "up",
+    "uptime": "86.14%",
+    "uptimeDay": "86.14%",
+    "uptimeWeek": "86.14%",
+    "uptimeMonth": "86.14%",
+    "uptimeYear": "86.14%",
+    "time": 1242,
+    "timeDay": 1242,
+    "timeWeek": 1242,
+    "timeMonth": 1242,
+    "timeYear": 1242,
     "dailyMinutesDown": {
-      "2025-11-26": 6
+      "2025-11-26": 94
     }
   },
   {

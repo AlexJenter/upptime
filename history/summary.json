@@ -289,19 +289,19 @@
     "url": "https://kufarchitekten.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/kufarchitekten.ch.ico",
     "slug": "kuf-architekten",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1463,
-    "timeDay": 2583,
-    "timeWeek": 1463,
-    "timeMonth": 1463,
-    "timeYear": 1463,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 1455,
+    "timeDay": 1972,
+    "timeWeek": 1455,
+    "timeMonth": 1455,
+    "timeYear": 1455,
     "dailyMinutesDown": {
-      "2025-11-28": 0
+      "2025-11-28": 10
     }
   },
   {

@@ -1,7 +1,7 @@
 url: https://kiff.ch
-status: up
-code: 200
-responseTime: 1288
-lastUpdated: 2025-12-15T06:17:57.698Z
+status: down
+code: 415
+responseTime: 793
+lastUpdated: 2025-12-15T16:32:50.845Z
 startTime: 2025-11-25T14:42:31.623Z
 generator: Upptime <https://github.com/upptime/upptime>

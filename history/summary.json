@@ -13,7 +13,7 @@
     "time": 1384,
     "timeDay": 1938,
     "timeWeek": 1449,
-    "timeMonth": 1383,
+    "timeMonth": 1388,
     "timeYear": 1384,
     "dailyMinutesDown": {
       "2026-01-08": 17,
@@ -56,18 +56,16 @@
     "slug": "brutalist-websites",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1786,
     "timeDay": 1835,
     "timeWeek": 1882,
     "timeMonth": 1817,
     "timeYear": 1786,
-    "dailyMinutesDown": {
-      "2026-01-22": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Brutalist Websites Shop",
@@ -173,7 +171,7 @@
     "time": 958,
     "timeDay": 1024,
     "timeWeek": 961,
-    "timeMonth": 963,
+    "timeMonth": 965,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2026-01-21": 41,
@@ -210,7 +208,7 @@
     "time": 4731,
     "timeDay": 6098,
     "timeWeek": 4139,
-    "timeMonth": 4664,
+    "timeMonth": 4728,
     "timeYear": 4731,
     "dailyMinutesDown": {
       "2026-01-17": 16,
@@ -259,7 +257,7 @@
     "time": 864,
     "timeDay": 873,
     "timeWeek": 884,
-    "timeMonth": 879,
+    "timeMonth": 880,
     "timeYear": 864,
     "dailyMinutesDown": {
       "2026-01-21": 41,
@@ -296,7 +294,7 @@
     "time": 787,
     "timeDay": 753,
     "timeWeek": 727,
-    "timeMonth": 784,
+    "timeMonth": 785,
     "timeYear": 787,
     "dailyMinutesDown": {
       "2026-01-21": 41,
@@ -332,7 +330,7 @@
     "time": 2021,
     "timeDay": 2576,
     "timeWeek": 1847,
-    "timeMonth": 2110,
+    "timeMonth": 2106,
     "timeYear": 2021,
     "dailyMinutesDown": {
       "2026-01-17": 16,
@@ -357,7 +355,7 @@
     "time": 985,
     "timeDay": 1417,
     "timeWeek": 1008,
-    "timeMonth": 993,
+    "timeMonth": 994,
     "timeYear": 985,
     "dailyMinutesDown": {
       "2026-01-17": 16,
@@ -391,7 +389,7 @@
     "time": 2180,
     "timeDay": 2241,
     "timeWeek": 2098,
-    "timeMonth": 2160,
+    "timeMonth": 2171,
     "timeYear": 2180,
     "dailyMinutesDown": {
       "2026-01-17": 16,
@@ -459,7 +457,7 @@
     "time": 1517,
     "timeDay": 1140,
     "timeWeek": 1169,
-    "timeMonth": 1594,
+    "timeMonth": 1581,
     "timeYear": 1517,
     "dailyMinutesDown": {
       "2026-01-21": 41,
@@ -495,7 +493,7 @@
     "time": 2224,
     "timeDay": 3314,
     "timeWeek": 2236,
-    "timeMonth": 2213,
+    "timeMonth": 2222,
     "timeYear": 2224,
     "dailyMinutesDown": {
       "2026-01-17": 15,
@@ -519,7 +517,7 @@
     "time": 1792,
     "timeDay": 1639,
     "timeWeek": 1585,
-    "timeMonth": 1707,
+    "timeMonth": 1720,
     "timeYear": 1792,
     "dailyMinutesDown": {
       "2026-01-21": 137,
@@ -544,7 +542,7 @@
     "time": 770,
     "timeDay": 739,
     "timeWeek": 725,
-    "timeMonth": 758,
+    "timeMonth": 759,
     "timeYear": 770,
     "dailyMinutesDown": {
       "2026-01-21": 41,

@@ -62,19 +62,19 @@
     "url": "https://brutalistwebsites.com/",
     "icon": "https://icons.duckduckgo.com/ip3/brutalistwebsites.com.ico",
     "slug": "brutalist-websites",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1835,
-    "timeDay": 1171,
-    "timeWeek": 1730,
-    "timeMonth": 1963,
-    "timeYear": 1835,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1842,
+    "timeDay": 1799,
+    "timeWeek": 1829,
+    "timeMonth": 1978,
+    "timeYear": 1842,
     "dailyMinutesDown": {
-      "2026-02-20": 2
+      "2026-02-20": 9
     }
   },
   {

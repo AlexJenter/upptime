@@ -1,7 +1,7 @@
 url: https://upset.ch
-status: up
-code: 200
-responseTime: 1112
-lastUpdated: 2026-03-15T23:08:54.991Z
+status: down
+code: 415
+responseTime: 904
+lastUpdated: 2026-03-16T08:35:45.933Z
 startTime: 2025-11-25T16:59:33.410Z
 generator: Upptime <https://github.com/upptime/upptime>

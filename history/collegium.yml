@@ -1,7 +1,7 @@
 url: https://collegium.ethz.ch
-status: up
-code: 200
-responseTime: 1560
-lastUpdated: 2026-03-31T23:10:49.679Z
+status: down
+code: 415
+responseTime: 426
+lastUpdated: 2026-04-01T13:00:40.371Z
 startTime: 2025-11-25T14:42:34.741Z
 generator: Upptime <https://github.com/upptime/upptime>
